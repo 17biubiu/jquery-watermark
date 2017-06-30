@@ -1,7 +1,7 @@
-# watermark
+# jquery-watermark
 基于jquery的watermark插件
 
-**watermark.js是一个在网页中实现水印效果的jQuery插件**
+**jquery.watermark.js是一个在网页中实现水印效果的jQuery插件**
 
 ###文档
 
